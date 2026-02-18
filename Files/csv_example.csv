@@ -1,6 +1,1 @@
-Test_Id,Username,Password,Date,Time of Test,Name of Tester,Test Result
-1,Admin,admin123,,,,
-2,Admin,admin123,,,,
-3,Admin,admin123,,,,
-4,Admin,admin123,,,,
-5,Admin,admin123,,,,
+<class 'datetime.date'>,00:00:00,Tester1,Pass
